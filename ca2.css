@@ -1,0 +1,13 @@
+canvas {
+    background-color: black;
+    display: flex;
+    margin: 0.2em auto;
+    position: relative;
+    background-image: url("background.png");
+    background-repeat: repeat;
+}
+
+body {
+    overflow: hidden; /* Hide scrollbars */
+    background-color: beige;
+  }
